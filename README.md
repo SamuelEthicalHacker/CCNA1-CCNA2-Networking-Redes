@@ -1,5 +1,5 @@
 # 📡 Cisco Packet Tracer Labs for CCNA / Laboratorios de Cisco Packet Tracer para CCNA
-![screenshot](cisco-reference.png)
+![screenshot](imgs/cisco-reference.png)
 
 
 ![Cisco Badge](https://img.shields.io/badge/Cisco-CCNA-blue?style=for-the-badge&logo=cisco)
